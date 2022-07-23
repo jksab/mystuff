@@ -1,6 +1,5 @@
-var q = 2;
-Number(q)
-var qsum = q+1;
+var q = Number(2);
+var qsum = Number(q+1);
 console.log(qsum);
 
 
