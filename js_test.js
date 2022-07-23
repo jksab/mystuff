@@ -1,13 +1,7 @@
 var q = 2;
+Number(q)
 var qsum = q+1;
 console.log(qsum);
-
-
-
-
-
-
-
 
 
 
